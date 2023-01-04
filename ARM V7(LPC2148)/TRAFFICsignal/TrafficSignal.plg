@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\LAB 3_CSEB\TrafficSignal.uvproj
+Project File Date:  11/03/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling TrafficSignal.c...
+TrafficSignal.c(46): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(49): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(55): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(59): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(63): warning:  #111-D: statement is unreachable
+TrafficSignal.c(64): warning:  #1-D: last line of file ends without a newline
+assembling Startup.s...
+linking...
+Program Size: Code=1032 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"TrafficSignal.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling TrafficSignal.c...
+TrafficSignal.c(58): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(63): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(67): warning:  #111-D: statement is unreachable
+TrafficSignal.c(68): warning:  #1-D: last line of file ends without a newline
+assembling Startup.s...
+linking...
+Program Size: Code=1064 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"TrafficSignal.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling TrafficSignal.c...
+TrafficSignal.c(58): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(63): warning:  #69-D: integer conversion resulted in truncation
+TrafficSignal.c(67): warning:  #111-D: statement is unreachable
+TrafficSignal.c(68): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1064 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"TrafficSignal.axf" - 0 Error(s), 4 Warning(s).

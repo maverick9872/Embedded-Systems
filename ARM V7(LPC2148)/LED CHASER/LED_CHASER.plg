@@ -1,0 +1,58 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Embedded Lsab\Codes\LED CHASER\LED_CHASER.uvproj
+Project File Date:  03/05/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(20): error:  #29: expected an expression
+main.c(49): warning:  #111-D: statement is unreachable
+main.c(50): warning:  #1-D: last line of file ends without a newline
+Target not created

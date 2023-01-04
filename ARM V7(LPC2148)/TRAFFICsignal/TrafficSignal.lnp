@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "trafficsignal.o" "startup.o" --strict --scatter "TrafficSignal.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TrafficSignal.map" -o "TrafficSignal.axf"
